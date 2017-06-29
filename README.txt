@@ -1,0 +1,1 @@
+Programma di test per la connessione al database locale ed esecuzione di una query
